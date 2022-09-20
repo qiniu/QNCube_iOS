@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/BeautyLiveViewController.h</key>
 		<data>
-		wWImOS3HqwKGwmKZlXn60uWbvCI=
+		OWpfMzjF72IKJc308AjWjwcLy4I=
 		</data>
 		<key>Headers/BottomMenuView.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/GoodBuyItemCell.h</key>
 		<data>
-		E+YHkO4+n6MZfMl/KWwC/7sEAJ0=
+		JiBZTJ2ydd7Q56ADmbAm7P7hbG8=
 		</data>
 		<key>Headers/GoodSellItemCell.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/GoodsModel.h</key>
 		<data>
-		VwrnBC4559Q91lCFD1GVxZg9dyE=
+		edh973ave21gkd4xcE14+/M1GJQ=
 		</data>
 		<key>Headers/GoodsOperationCell.h</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>Headers/QNBaseRTCController.h</key>
 		<data>
-		xGxWKguPsGGDygqz8LWkwphQosg=
+		7ijOPLwvhvMsdn7JuKKShGXpNKI=
 		</data>
 		<key>Headers/QNCameraParams.h</key>
 		<data>
@@ -306,7 +306,7 @@
 		</data>
 		<key>Headers/QRoomDataModel.h</key>
 		<data>
-		Us+QmiLCK5mrE9wuVJVgPjBtLLc=
+		tObtK/Y1Ry4Tt8zeCBmjui1sbjc=
 		</data>
 		<key>Headers/QRooms.h</key>
 		<data>
@@ -318,7 +318,7 @@
 		</data>
 		<key>Headers/QStatisticalService.h</key>
 		<data>
-		1xQwb1Oq9LB4pGFlZae6380SON0=
+		XFsMeUy7gJoKADFq2n/DyiFvl/Q=
 		</data>
 		<key>Headers/QTagButton.h</key>
 		<data>
@@ -530,7 +530,7 @@
 		</data>
 		<key>Headers/ShopBuyListController.h</key>
 		<data>
-		tN0bDNiXSlpfWgnWPzb6e8d1Frk=
+		QKBuV5uF2GHgZPYwoFm2yuOCSw4=
 		</data>
 		<key>Headers/ShopSellListController.h</key>
 		<data>
@@ -642,11 +642,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wWImOS3HqwKGwmKZlXn60uWbvCI=
+			OWpfMzjF72IKJc308AjWjwcLy4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			xJTR/xEuZY/jl5wPm4Ky+QiVHxQPTPWYGMWRmeQXCb4=
+			Zn1oflf4GpN0fc7b77jZYRwLhtM31AFPQy6v/XX286g=
 			</data>
 		</dict>
 		<key>Headers/BottomMenuView.h</key>
@@ -796,11 +796,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E+YHkO4+n6MZfMl/KWwC/7sEAJ0=
+			JiBZTJ2ydd7Q56ADmbAm7P7hbG8=
 			</data>
 			<key>hash2</key>
 			<data>
-			YBAVCTGP0oE6cu6TikGKJWWfM9xsRfVnFo6Xl0rt2W4=
+			98PG4YvrujXT3bho4Y8iwkgt+48X6gkCCz4SuJ1+ZI4=
 			</data>
 		</dict>
 		<key>Headers/GoodSellItemCell.h</key>
@@ -829,11 +829,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VwrnBC4559Q91lCFD1GVxZg9dyE=
+			edh973ave21gkd4xcE14+/M1GJQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EDEIepm7vLVojigQt8nAoEUFgJKUbRCsrb+6J+VhfvQ=
+			wKaEXzWR+61UnxQajF+rSpKfcwjfm+ZA2lKaSZTHSE0=
 			</data>
 		</dict>
 		<key>Headers/GoodsOperationCell.h</key>
@@ -1170,11 +1170,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xGxWKguPsGGDygqz8LWkwphQosg=
+			7ijOPLwvhvMsdn7JuKKShGXpNKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			CWqL8iNx2IwMjWn6Y+nuz9QRlpI5pzsT59jIhSPJQYI=
+			VmSDiwZ2Pbuwjxgrbu+eJVA1zmSxdSz24/6k/YreKN8=
 			</data>
 		</dict>
 		<key>Headers/QNCameraParams.h</key>
@@ -1412,11 +1412,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Us+QmiLCK5mrE9wuVJVgPjBtLLc=
+			tObtK/Y1Ry4Tt8zeCBmjui1sbjc=
 			</data>
 			<key>hash2</key>
 			<data>
-			BdslM5ow8u6xMq92ge/1R/CFOpUy40GIVBOqy9wrH2Q=
+			q3FTsJ+NGFaOSKfSQVRsQu9+VjtmdCX690X7JLWj5pE=
 			</data>
 		</dict>
 		<key>Headers/QRooms.h</key>
@@ -1445,11 +1445,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1xQwb1Oq9LB4pGFlZae6380SON0=
+			XFsMeUy7gJoKADFq2n/DyiFvl/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			cihtGOoYYN0nD9wQXkziTlbnw9iBW9koU+lHDxsm+Tk=
+			GfwyY8JTQ+6VnPrgmF8xmPzoD646cOBYlHqnDErQtSc=
 			</data>
 		</dict>
 		<key>Headers/QTagButton.h</key>
@@ -2028,11 +2028,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tN0bDNiXSlpfWgnWPzb6e8d1Frk=
+			QKBuV5uF2GHgZPYwoFm2yuOCSw4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tntVK8XmLJI4h7LhU+sjb3FgTP4sWX9gXCzgnn8UKmc=
+			QZ4E7rcNNK8QKfePsFz1405FeNj1jVq4Lv5uOxtmfu4=
 			</data>
 		</dict>
 		<key>Headers/ShopSellListController.h</key>

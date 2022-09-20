@@ -74,7 +74,7 @@
         
         [model enumerateObjectsUsingBlock:^(QRoomDataModel * _Nonnull obj, NSUInteger idx, BOOL * _Nonnull stop) {
             QliveDataModel *model = [QliveDataModel new];
-            model.detailStr = obj.unique_visitor.stringValue;
+            model.detailStr = obj.page_view.stringValue;
             model.titleStr = [self dataTitleStr:obj.type];
             [array addObject:model];
         }];
@@ -84,10 +84,10 @@
         model1.titleStr = @"直播时长";
         [array addObject:model1];
         
-        QliveDataModel *model2 = [QliveDataModel new];
-        model2.detailStr = @"00:00:17";
-        model2.titleStr = @"平均观看";
-        [array addObject:model2];
+//        QliveDataModel *model2 = [QliveDataModel new];
+//        model2.detailStr = @"00:00:17";
+//        model2.titleStr = @"平均观看";
+//        [array addObject:model2];
         
         self.dataArray = [NSArray arrayWithArray:array];
         [self.liveDataView updateWithModelArray:array];
