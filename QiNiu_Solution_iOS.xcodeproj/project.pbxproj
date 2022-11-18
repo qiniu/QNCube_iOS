@@ -38,6 +38,7 @@
 		48B93852292733E50014D671 /* CoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48B93851292733E50014D671 /* CoreServices.framework */; };
 		48B93854292733EC0014D671 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48B93853292733EC0014D671 /* MapKit.framework */; };
 		48B9385929275A6D0014D671 /* QNLiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48B9385829275A6D0014D671 /* QNLiveKit.framework */; };
+		48B9385C292762BC0014D671 /* PLSTArEffects.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48B9385A292761B50014D671 /* PLSTArEffects.framework */; };
 		77040A1928BCA4E70005FA9A /* QLiveDataItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 77040A1828BCA4E70005FA9A /* QLiveDataItemView.m */; };
 		7714E5B727002286004B7859 /* QNRepairViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7714E5B627002286004B7859 /* QNRepairViewController.m */; };
 		7714E5BB270053C4004B7859 /* QNRepairListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7714E5BA270053C4004B7859 /* QNRepairListViewController.m */; };
@@ -308,6 +309,7 @@
 		48B93851292733E50014D671 /* CoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreServices.framework; path = System/Library/Frameworks/CoreServices.framework; sourceTree = SDKROOT; };
 		48B93853292733EC0014D671 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		48B9385829275A6D0014D671 /* QNLiveKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QNLiveKit.framework; sourceTree = "<group>"; };
+		48B9385A292761B50014D671 /* PLSTArEffects.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PLSTArEffects.framework; sourceTree = "<group>"; };
 		77040A1728BCA4E70005FA9A /* QLiveDataItemView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QLiveDataItemView.h; sourceTree = "<group>"; };
 		77040A1828BCA4E70005FA9A /* QLiveDataItemView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QLiveDataItemView.m; sourceTree = "<group>"; };
 		7714E5B527002286004B7859 /* QNRepairViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QNRepairViewController.h; sourceTree = "<group>"; };
@@ -707,6 +709,7 @@
 				48B93854292733EC0014D671 /* MapKit.framework in Frameworks */,
 				48B93852292733E50014D671 /* CoreServices.framework in Frameworks */,
 				7771EB942768BA5300EDE1EB /* libsqlite3.0.tbd in Frameworks */,
+				48B9385C292762BC0014D671 /* PLSTArEffects.framework in Frameworks */,
 				7744A8E7271ED2E000E82E51 /* QNWhiteBoardSDK.framework in Frameworks */,
 				48B9385929275A6D0014D671 /* QNLiveKit.framework in Frameworks */,
 				77CE3CA42611C8FF000FFE64 /* ReplayKit.framework in Frameworks */,
@@ -1602,6 +1605,7 @@
 		77F4279A27EB3787007999A4 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				48B9385A292761B50014D671 /* PLSTArEffects.framework */,
 				48B9385829275A6D0014D671 /* QNLiveKit.framework */,
 				77F61AB227EAC5070031C415 /* LATWhiteboard.framework */,
 				773F96EE271E912C00B50F84 /* QNWhiteBoardSDK.framework */,
