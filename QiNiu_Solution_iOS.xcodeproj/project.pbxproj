@@ -7,6 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		481DC1B8291DE131000EC0A3 /* SENSEME.lic in Resources */ = {isa = PBXBuildFile; fileRef = 481DC1B7291DE131000EC0A3 /* SENSEME.lic */; };
+		48B938192927333E0014D671 /* M_SenseME_Verify_p_3.118.0.1.model in Resources */ = {isa = PBXBuildFile; fileRef = 48B938142927333E0014D671 /* M_SenseME_Verify_p_3.118.0.1.model */; };
+		48B9381A2927333E0014D671 /* M_SenseME_DogFace_p_2.0.0.1.model in Resources */ = {isa = PBXBuildFile; fileRef = 48B938152927333E0014D671 /* M_SenseME_DogFace_p_2.0.0.1.model */; };
+		48B9381B2927333E0014D671 /* model.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B938162927333E0014D671 /* model.bundle */; };
+		48B9381C2927333E0014D671 /* M_SenseME_Attribute_p_1.2.8.1.model in Resources */ = {isa = PBXBuildFile; fileRef = 48B938172927333E0014D671 /* M_SenseME_Attribute_p_1.2.8.1.model */; };
+		48B9381D2927333E0014D671 /* M_SenseME_CatFace_p_3.2.0.1.model in Resources */ = {isa = PBXBuildFile; fileRef = 48B938182927333E0014D671 /* M_SenseME_CatFace_p_3.2.0.1.model */; };
+		48B93835292733640014D671 /* beauties.json in Resources */ = {isa = PBXBuildFile; fileRef = 48B93820292733620014D671 /* beauties.json */; };
+		48B93836292733640014D671 /* all_categories.json in Resources */ = {isa = PBXBuildFile; fileRef = 48B93821292733620014D671 /* all_categories.json */; };
+		48B93837292733640014D671 /* material_group_map_rulues.json in Resources */ = {isa = PBXBuildFile; fileRef = 48B93822292733620014D671 /* material_group_map_rulues.json */; };
+		48B93838292733640014D671 /* effects_service_group_list.json in Resources */ = {isa = PBXBuildFile; fileRef = 48B93823292733620014D671 /* effects_service_group_list.json */; };
+		48B93839292733640014D671 /* all_categories_without_multi.json in Resources */ = {isa = PBXBuildFile; fileRef = 48B93824292733620014D671 /* all_categories_without_multi.json */; };
+		48B9383A292733640014D671 /* PortraitFilters.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B93826292733630014D671 /* PortraitFilters.bundle */; };
+		48B9383B292733640014D671 /* SceneryFilters.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B93827292733630014D671 /* SceneryFilters.bundle */; };
+		48B9383C292733640014D671 /* StillLifeFilters.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B93828292733630014D671 /* StillLifeFilters.bundle */; };
+		48B9383D292733640014D671 /* DeliciousFoodFilters.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B93829292733630014D671 /* DeliciousFoodFilters.bundle */; };
+		48B9383E292733640014D671 /* eyelash.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B9382B292733630014D671 /* eyelash.bundle */; };
+		48B9383F292733640014D671 /* lips.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B9382C292733630014D671 /* lips.bundle */; };
+		48B93840292733640014D671 /* brow.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B9382D292733630014D671 /* brow.bundle */; };
+		48B93841292733640014D671 /* wholemakeup.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B9382E292733630014D671 /* wholemakeup.bundle */; };
+		48B93842292733640014D671 /* face.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B9382F292733630014D671 /* face.bundle */; };
+		48B93843292733640014D671 /* eyeshadow.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B93830292733630014D671 /* eyeshadow.bundle */; };
+		48B93844292733640014D671 /* blush.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B93831292733630014D671 /* blush.bundle */; };
+		48B93845292733640014D671 /* hairColor.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B93832292733630014D671 /* hairColor.bundle */; };
+		48B93846292733640014D671 /* whiten_gif.zip in Resources */ = {isa = PBXBuildFile; fileRef = 48B93834292733640014D671 /* whiten_gif.zip */; };
+		48B9384D2927336E0014D671 /* my_sticker.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 48B938482927336E0014D671 /* my_sticker.bundle */; };
+		48B9384E2927336E0014D671 /* STViewButton.xib in Resources */ = {isa = PBXBuildFile; fileRef = 48B9384A2927336E0014D671 /* STViewButton.xib */; };
+		48B9384F2927336E0014D671 /* EffectsCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 48B9384B2927336E0014D671 /* EffectsCollectionViewCell.xib */; };
+		48B938502927336E0014D671 /* STSlideView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 48B9384C2927336E0014D671 /* STSlideView.xib */; };
+		48B93852292733E50014D671 /* CoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48B93851292733E50014D671 /* CoreServices.framework */; };
+		48B93854292733EC0014D671 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48B93853292733EC0014D671 /* MapKit.framework */; };
+		48B9385929275A6D0014D671 /* QNLiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48B9385829275A6D0014D671 /* QNLiveKit.framework */; };
+		48B9385C292762BC0014D671 /* PLSTArEffects.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48B9385A292761B50014D671 /* PLSTArEffects.framework */; };
 		77040A1928BCA4E70005FA9A /* QLiveDataItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 77040A1828BCA4E70005FA9A /* QLiveDataItemView.m */; };
 		7714E5B727002286004B7859 /* QNRepairViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7714E5B627002286004B7859 /* QNRepairViewController.m */; };
 		7714E5BB270053C4004B7859 /* QNRepairListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7714E5BA270053C4004B7859 /* QNRepairListViewController.m */; };
@@ -145,38 +177,6 @@
 		77877D7E2754C13F00BE3509 /* QNMovieListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 77877D7D2754C13F00BE3509 /* QNMovieListCell.m */; };
 		77877D8127589E8600BE3509 /* QNMovieListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 77877D8027589E8600BE3509 /* QNMovieListModel.m */; };
 		77877D842758DFD400BE3509 /* QNCreateMovieRoomController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77877D832758DFD300BE3509 /* QNCreateMovieRoomController.m */; };
-		77A11C9128857A2100020149 /* PortraitFilters.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C6D28857A2100020149 /* PortraitFilters.bundle */; };
-		77A11C9228857A2100020149 /* SceneryFilters.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C6E28857A2100020149 /* SceneryFilters.bundle */; };
-		77A11C9328857A2100020149 /* StillLifeFilters.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C6F28857A2100020149 /* StillLifeFilters.bundle */; };
-		77A11C9428857A2100020149 /* DeliciousFoodFilters.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7028857A2100020149 /* DeliciousFoodFilters.bundle */; };
-		77A11C9528857A2100020149 /* whiten_gif.zip in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7228857A2100020149 /* whiten_gif.zip */; };
-		77A11C9628857A2100020149 /* eyelash.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7428857A2100020149 /* eyelash.bundle */; };
-		77A11C9728857A2100020149 /* lips.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7528857A2100020149 /* lips.bundle */; };
-		77A11C9828857A2100020149 /* brow.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7628857A2100020149 /* brow.bundle */; };
-		77A11C9928857A2100020149 /* wholemakeup.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7728857A2100020149 /* wholemakeup.bundle */; };
-		77A11C9A28857A2100020149 /* face.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7828857A2100020149 /* face.bundle */; };
-		77A11C9B28857A2100020149 /* eyeshadow.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7928857A2100020149 /* eyeshadow.bundle */; };
-		77A11C9C28857A2100020149 /* blush.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7A28857A2100020149 /* blush.bundle */; };
-		77A11C9D28857A2100020149 /* my_sticker.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7C28857A2100020149 /* my_sticker.bundle */; };
-		77A11C9E28857A2100020149 /* SENSEME.lic in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7D28857A2100020149 /* SENSEME.lic */; };
-		77A11C9F28857A2100020149 /* M_SenseME_Segment_Head_1.0.3.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C7F28857A2100020149 /* M_SenseME_Segment_Head_1.0.3.model */; };
-		77A11CA028857A2100020149 /* M_SenseME_DogFace_2.0.0.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8028857A2100020149 /* M_SenseME_DogFace_2.0.0.model */; };
-		77A11CA128857A2100020149 /* M_SenseAR_Segment_MouthOcclusion_FastV1_1.1.2.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8128857A2100020149 /* M_SenseAR_Segment_MouthOcclusion_FastV1_1.1.2.model */; };
-		77A11CA228857A2100020149 /* M_SenseME_Segment_MouthOcclusion_FastV1_1.1.3.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8228857A2100020149 /* M_SenseME_Segment_MouthOcclusion_FastV1_1.1.3.model */; };
-		77A11CA328857A2100020149 /* SenseAR_v6.11.0(Effects)_Model_Usage_Instructions.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8328857A2100020149 /* SenseAR_v6.11.0(Effects)_Model_Usage_Instructions.pdf */; };
-		77A11CA428857A2100020149 /* M_SenseME_Segment_Skin_1.1.1.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8428857A2100020149 /* M_SenseME_Segment_Skin_1.1.1.model */; };
-		77A11CA528857A2100020149 /* M_SenseME_CatFace_3.2.0.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8528857A2100020149 /* M_SenseME_CatFace_3.2.0.model */; };
-		77A11CA628857A2100020149 /* M_SenseME_Segment_4.12.8.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8628857A2100020149 /* M_SenseME_Segment_4.12.8.model */; };
-		77A11CA728857A2100020149 /* M_SenseME_Face_Extra_Advanced_6.0.13.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8728857A2100020149 /* M_SenseME_Face_Extra_Advanced_6.0.13.model */; };
-		77A11CA828857A2100020149 /* M_SenseME_Hand_5.4.0.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8828857A2100020149 /* M_SenseME_Hand_5.4.0.model */; };
-		77A11CA928857A2100020149 /* M_SenseME_Face_Video_7.0.0.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8928857A2100020149 /* M_SenseME_Face_Video_7.0.0.model */; };
-		77A11CAA28857A2100020149 /* M_SenseME_Segment_4.12.11.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8A28857A2100020149 /* M_SenseME_Segment_4.12.11.model */; };
-		77A11CAB28857A2100020149 /* M_SenseME_Segment_Hair_1.3.4.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8B28857A2100020149 /* M_SenseME_Segment_Hair_1.3.4.model */; };
-		77A11CAC28857A2100020149 /* M_SenseME_Segment_DBL_Face_1.0.7.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8C28857A2100020149 /* M_SenseME_Segment_DBL_Face_1.0.7.model */; };
-		77A11CAD28857A2100020149 /* M_SenseME_Segment_Sky_1.0.3.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8D28857A2100020149 /* M_SenseME_Segment_Sky_1.0.3.model */; };
-		77A11CAE28857A2100020149 /* M_SenseME_Attribute_1.0.1.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8E28857A2100020149 /* M_SenseME_Attribute_1.0.1.model */; };
-		77A11CAF28857A2100020149 /* SenseAR_v8.5.0(Effects)_Model_Usage_Instructions的.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C8F28857A2100020149 /* SenseAR_v8.5.0(Effects)_Model_Usage_Instructions的.pdf */; };
-		77A11CB028857A2100020149 /* M_SenseME_Avatar_Help_2.2.0.model in Resources */ = {isa = PBXBuildFile; fileRef = 77A11C9028857A2100020149 /* M_SenseME_Avatar_Help_2.2.0.model */; };
 		77A8D26C28782DC4001A3C2C /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77A8D26B28782DC4001A3C2C /* AssetsLibrary.framework */; };
 		77AF8083262034F70096B2FE /* QNAddInterViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77AF8082262034F70096B2FE /* QNAddInterViewViewController.m */; };
 		77AF8089262037710096B2FE /* QNAddInterViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 77AF8088262037710096B2FE /* QNAddInterViewCell.m */; };
@@ -200,7 +200,6 @@
 		77CE3CA42611C8FF000FFE64 /* ReplayKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77CE3CA32611C8FF000FFE64 /* ReplayKit.framework */; };
 		77CE3CA82611C91B000FFE64 /* VideoToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77CE3CA72611C91B000FFE64 /* VideoToolbox.framework */; };
 		77D9BECB261EA93300255E9C /* QNLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77D9BECA261EA93300255E9C /* QNLoginViewController.m */; };
-		77EDC32A286887C1002B4226 /* QNLiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77EDC329286887C1002B4226 /* QNLiveKit.framework */; };
 		77F4279D27ED6862007999A4 /* ForbiddenMicModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F4279C27ED6862007999A4 /* ForbiddenMicModel.m */; };
 		77F427A027ED6EFF007999A4 /* QNDanmuMsgModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F4279F27ED6EFF007999A4 /* QNDanmuMsgModel.m */; };
 		77F427A327ED7053007999A4 /* IMModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F427A227ED7053007999A4 /* IMModel.m */; };
@@ -279,6 +278,38 @@
 /* Begin PBXFileReference section */
 		0DF5FCE42C321A3B2816DA3F /* Pods_QiNiu_Solution_iOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QiNiu_Solution_iOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC5A2915DF35D66E8224D35 /* Pods-QiNiu_Solution_iOS-QiNiu_Solution_iOSUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QiNiu_Solution_iOS-QiNiu_Solution_iOSUITests.debug.xcconfig"; path = "Target Support Files/Pods-QiNiu_Solution_iOS-QiNiu_Solution_iOSUITests/Pods-QiNiu_Solution_iOS-QiNiu_Solution_iOSUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		481DC1B7291DE131000EC0A3 /* SENSEME.lic */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = SENSEME.lic; path = ../../../../Documents/qiniu/iOS/beauty/SENSEME.lic; sourceTree = "<group>"; };
+		48B938142927333E0014D671 /* M_SenseME_Verify_p_3.118.0.1.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Verify_p_3.118.0.1.model; sourceTree = "<group>"; };
+		48B938152927333E0014D671 /* M_SenseME_DogFace_p_2.0.0.1.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_DogFace_p_2.0.0.1.model; sourceTree = "<group>"; };
+		48B938162927333E0014D671 /* model.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = model.bundle; sourceTree = "<group>"; };
+		48B938172927333E0014D671 /* M_SenseME_Attribute_p_1.2.8.1.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Attribute_p_1.2.8.1.model; sourceTree = "<group>"; };
+		48B938182927333E0014D671 /* M_SenseME_CatFace_p_3.2.0.1.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_CatFace_p_3.2.0.1.model; sourceTree = "<group>"; };
+		48B93820292733620014D671 /* beauties.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = beauties.json; sourceTree = "<group>"; };
+		48B93821292733620014D671 /* all_categories.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = all_categories.json; sourceTree = "<group>"; };
+		48B93822292733620014D671 /* material_group_map_rulues.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = material_group_map_rulues.json; sourceTree = "<group>"; };
+		48B93823292733620014D671 /* effects_service_group_list.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = effects_service_group_list.json; sourceTree = "<group>"; };
+		48B93824292733620014D671 /* all_categories_without_multi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = all_categories_without_multi.json; sourceTree = "<group>"; };
+		48B93826292733630014D671 /* PortraitFilters.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PortraitFilters.bundle; sourceTree = "<group>"; };
+		48B93827292733630014D671 /* SceneryFilters.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SceneryFilters.bundle; sourceTree = "<group>"; };
+		48B93828292733630014D671 /* StillLifeFilters.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = StillLifeFilters.bundle; sourceTree = "<group>"; };
+		48B93829292733630014D671 /* DeliciousFoodFilters.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = DeliciousFoodFilters.bundle; sourceTree = "<group>"; };
+		48B9382B292733630014D671 /* eyelash.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = eyelash.bundle; sourceTree = "<group>"; };
+		48B9382C292733630014D671 /* lips.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = lips.bundle; sourceTree = "<group>"; };
+		48B9382D292733630014D671 /* brow.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = brow.bundle; sourceTree = "<group>"; };
+		48B9382E292733630014D671 /* wholemakeup.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = wholemakeup.bundle; sourceTree = "<group>"; };
+		48B9382F292733630014D671 /* face.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = face.bundle; sourceTree = "<group>"; };
+		48B93830292733630014D671 /* eyeshadow.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = eyeshadow.bundle; sourceTree = "<group>"; };
+		48B93831292733630014D671 /* blush.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = blush.bundle; sourceTree = "<group>"; };
+		48B93832292733630014D671 /* hairColor.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = hairColor.bundle; sourceTree = "<group>"; };
+		48B93834292733640014D671 /* whiten_gif.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = whiten_gif.zip; sourceTree = "<group>"; };
+		48B938482927336E0014D671 /* my_sticker.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = my_sticker.bundle; sourceTree = "<group>"; };
+		48B9384A2927336E0014D671 /* STViewButton.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = STViewButton.xib; sourceTree = "<group>"; };
+		48B9384B2927336E0014D671 /* EffectsCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EffectsCollectionViewCell.xib; sourceTree = "<group>"; };
+		48B9384C2927336E0014D671 /* STSlideView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = STSlideView.xib; sourceTree = "<group>"; };
+		48B93851292733E50014D671 /* CoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreServices.framework; path = System/Library/Frameworks/CoreServices.framework; sourceTree = SDKROOT; };
+		48B93853292733EC0014D671 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		48B9385829275A6D0014D671 /* QNLiveKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QNLiveKit.framework; sourceTree = "<group>"; };
+		48B9385A292761B50014D671 /* PLSTArEffects.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PLSTArEffects.framework; sourceTree = "<group>"; };
 		77040A1728BCA4E70005FA9A /* QLiveDataItemView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QLiveDataItemView.h; sourceTree = "<group>"; };
 		77040A1828BCA4E70005FA9A /* QLiveDataItemView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QLiveDataItemView.m; sourceTree = "<group>"; };
 		7714E5B527002286004B7859 /* QNRepairViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QNRepairViewController.h; sourceTree = "<group>"; };
@@ -552,38 +583,6 @@
 		77877D8027589E8600BE3509 /* QNMovieListModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QNMovieListModel.m; sourceTree = "<group>"; };
 		77877D822758DFD300BE3509 /* QNCreateMovieRoomController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QNCreateMovieRoomController.h; sourceTree = "<group>"; };
 		77877D832758DFD300BE3509 /* QNCreateMovieRoomController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QNCreateMovieRoomController.m; sourceTree = "<group>"; };
-		77A11C6D28857A2100020149 /* PortraitFilters.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PortraitFilters.bundle; sourceTree = "<group>"; };
-		77A11C6E28857A2100020149 /* SceneryFilters.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SceneryFilters.bundle; sourceTree = "<group>"; };
-		77A11C6F28857A2100020149 /* StillLifeFilters.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = StillLifeFilters.bundle; sourceTree = "<group>"; };
-		77A11C7028857A2100020149 /* DeliciousFoodFilters.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = DeliciousFoodFilters.bundle; sourceTree = "<group>"; };
-		77A11C7228857A2100020149 /* whiten_gif.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = whiten_gif.zip; sourceTree = "<group>"; };
-		77A11C7428857A2100020149 /* eyelash.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = eyelash.bundle; sourceTree = "<group>"; };
-		77A11C7528857A2100020149 /* lips.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = lips.bundle; sourceTree = "<group>"; };
-		77A11C7628857A2100020149 /* brow.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = brow.bundle; sourceTree = "<group>"; };
-		77A11C7728857A2100020149 /* wholemakeup.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = wholemakeup.bundle; sourceTree = "<group>"; };
-		77A11C7828857A2100020149 /* face.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = face.bundle; sourceTree = "<group>"; };
-		77A11C7928857A2100020149 /* eyeshadow.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = eyeshadow.bundle; sourceTree = "<group>"; };
-		77A11C7A28857A2100020149 /* blush.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = blush.bundle; sourceTree = "<group>"; };
-		77A11C7C28857A2100020149 /* my_sticker.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = my_sticker.bundle; sourceTree = "<group>"; };
-		77A11C7D28857A2100020149 /* SENSEME.lic */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SENSEME.lic; sourceTree = "<group>"; };
-		77A11C7F28857A2100020149 /* M_SenseME_Segment_Head_1.0.3.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Segment_Head_1.0.3.model; sourceTree = "<group>"; };
-		77A11C8028857A2100020149 /* M_SenseME_DogFace_2.0.0.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_DogFace_2.0.0.model; sourceTree = "<group>"; };
-		77A11C8128857A2100020149 /* M_SenseAR_Segment_MouthOcclusion_FastV1_1.1.2.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseAR_Segment_MouthOcclusion_FastV1_1.1.2.model; sourceTree = "<group>"; };
-		77A11C8228857A2100020149 /* M_SenseME_Segment_MouthOcclusion_FastV1_1.1.3.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Segment_MouthOcclusion_FastV1_1.1.3.model; sourceTree = "<group>"; };
-		77A11C8328857A2100020149 /* SenseAR_v6.11.0(Effects)_Model_Usage_Instructions.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "SenseAR_v6.11.0(Effects)_Model_Usage_Instructions.pdf"; sourceTree = "<group>"; };
-		77A11C8428857A2100020149 /* M_SenseME_Segment_Skin_1.1.1.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Segment_Skin_1.1.1.model; sourceTree = "<group>"; };
-		77A11C8528857A2100020149 /* M_SenseME_CatFace_3.2.0.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_CatFace_3.2.0.model; sourceTree = "<group>"; };
-		77A11C8628857A2100020149 /* M_SenseME_Segment_4.12.8.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Segment_4.12.8.model; sourceTree = "<group>"; };
-		77A11C8728857A2100020149 /* M_SenseME_Face_Extra_Advanced_6.0.13.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Face_Extra_Advanced_6.0.13.model; sourceTree = "<group>"; };
-		77A11C8828857A2100020149 /* M_SenseME_Hand_5.4.0.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Hand_5.4.0.model; sourceTree = "<group>"; };
-		77A11C8928857A2100020149 /* M_SenseME_Face_Video_7.0.0.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Face_Video_7.0.0.model; sourceTree = "<group>"; };
-		77A11C8A28857A2100020149 /* M_SenseME_Segment_4.12.11.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Segment_4.12.11.model; sourceTree = "<group>"; };
-		77A11C8B28857A2100020149 /* M_SenseME_Segment_Hair_1.3.4.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Segment_Hair_1.3.4.model; sourceTree = "<group>"; };
-		77A11C8C28857A2100020149 /* M_SenseME_Segment_DBL_Face_1.0.7.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Segment_DBL_Face_1.0.7.model; sourceTree = "<group>"; };
-		77A11C8D28857A2100020149 /* M_SenseME_Segment_Sky_1.0.3.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Segment_Sky_1.0.3.model; sourceTree = "<group>"; };
-		77A11C8E28857A2100020149 /* M_SenseME_Attribute_1.0.1.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Attribute_1.0.1.model; sourceTree = "<group>"; };
-		77A11C8F28857A2100020149 /* SenseAR_v8.5.0(Effects)_Model_Usage_Instructions的.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "SenseAR_v8.5.0(Effects)_Model_Usage_Instructions的.pdf"; sourceTree = "<group>"; };
-		77A11C9028857A2100020149 /* M_SenseME_Avatar_Help_2.2.0.model */ = {isa = PBXFileReference; lastKnownFileType = file; path = M_SenseME_Avatar_Help_2.2.0.model; sourceTree = "<group>"; };
 		77A8D26B28782DC4001A3C2C /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 		77AF8081262034F70096B2FE /* QNAddInterViewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QNAddInterViewViewController.h; sourceTree = "<group>"; };
 		77AF8082262034F70096B2FE /* QNAddInterViewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QNAddInterViewViewController.m; sourceTree = "<group>"; };
@@ -628,7 +627,6 @@
 		77CE3CA52611C90D000FFE64 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		77CE3CA72611C91B000FFE64 /* VideoToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VideoToolbox.framework; path = System/Library/Frameworks/VideoToolbox.framework; sourceTree = SDKROOT; };
 		77D9BECA261EA93300255E9C /* QNLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QNLoginViewController.m; sourceTree = "<group>"; };
-		77EDC329286887C1002B4226 /* QNLiveKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QNLiveKit.framework; sourceTree = "<group>"; };
 		77F4279B27ED6862007999A4 /* ForbiddenMicModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ForbiddenMicModel.h; sourceTree = "<group>"; };
 		77F4279C27ED6862007999A4 /* ForbiddenMicModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ForbiddenMicModel.m; sourceTree = "<group>"; };
 		77F4279E27ED6EFF007999A4 /* QNDanmuMsgModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QNDanmuMsgModel.h; sourceTree = "<group>"; };
@@ -702,15 +700,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77EDC32A286887C1002B4226 /* QNLiveKit.framework in Frameworks */,
 				77A8D26C28782DC4001A3C2C /* AssetsLibrary.framework in Frameworks */,
 				77F61AAA27E9DB0E0031C415 /* QNIMSDK.framework in Frameworks */,
 				77F61AB427EAC50E0031C415 /* LATWhiteboard.framework in Frameworks */,
 				7771EB962768BA6400EDE1EB /* libz.tbd in Frameworks */,
 				77CE3CA82611C91B000FFE64 /* VideoToolbox.framework in Frameworks */,
 				77F61BD0271550ED003C93A7 /* GLKit.framework in Frameworks */,
+				48B93854292733EC0014D671 /* MapKit.framework in Frameworks */,
+				48B93852292733E50014D671 /* CoreServices.framework in Frameworks */,
 				7771EB942768BA5300EDE1EB /* libsqlite3.0.tbd in Frameworks */,
+				48B9385C292762BC0014D671 /* PLSTArEffects.framework in Frameworks */,
 				7744A8E7271ED2E000E82E51 /* QNWhiteBoardSDK.framework in Frameworks */,
+				48B9385929275A6D0014D671 /* QNLiveKit.framework in Frameworks */,
 				77CE3CA42611C8FF000FFE64 /* ReplayKit.framework in Frameworks */,
 				AC2F3FC7FDEAC261AAACB451 /* Pods_QiNiu_Solution_iOS.framework in Frameworks */,
 			);
@@ -738,6 +739,8 @@
 		10C5D84130DA34CB2B2B41B1 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				48B93853292733EC0014D671 /* MapKit.framework */,
+				48B93851292733E50014D671 /* CoreServices.framework */,
 				77A8D26B28782DC4001A3C2C /* AssetsLibrary.framework */,
 				7771EB952768BA5D00EDE1EB /* libz.tbd */,
 				7771EB932768BA4C00EDE1EB /* libsqlite3.0.tbd */,
@@ -762,6 +765,95 @@
 				C06842FCE162F1DCF4B26B5A /* Pods-QiNiu_Solution_iOSTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		48B938132927333E0014D671 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				48B938142927333E0014D671 /* M_SenseME_Verify_p_3.118.0.1.model */,
+				48B938152927333E0014D671 /* M_SenseME_DogFace_p_2.0.0.1.model */,
+				48B938162927333E0014D671 /* model.bundle */,
+				48B938172927333E0014D671 /* M_SenseME_Attribute_p_1.2.8.1.model */,
+				48B938182927333E0014D671 /* M_SenseME_CatFace_p_3.2.0.1.model */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		48B9381E2927334D0014D671 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				48B938472927336E0014D671 /* StickerZipAndIcons */,
+				48B938492927336E0014D671 /* UIElements */,
+				48B93833292733640014D671 /* Color */,
+				48B93825292733630014D671 /* Filters */,
+				48B9381F292733620014D671 /* helpers */,
+				48B9382A292733630014D671 /* Makeup */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
+		48B9381F292733620014D671 /* helpers */ = {
+			isa = PBXGroup;
+			children = (
+				48B93820292733620014D671 /* beauties.json */,
+				48B93821292733620014D671 /* all_categories.json */,
+				48B93822292733620014D671 /* material_group_map_rulues.json */,
+				48B93823292733620014D671 /* effects_service_group_list.json */,
+				48B93824292733620014D671 /* all_categories_without_multi.json */,
+			);
+			path = helpers;
+			sourceTree = "<group>";
+		};
+		48B93825292733630014D671 /* Filters */ = {
+			isa = PBXGroup;
+			children = (
+				48B93826292733630014D671 /* PortraitFilters.bundle */,
+				48B93827292733630014D671 /* SceneryFilters.bundle */,
+				48B93828292733630014D671 /* StillLifeFilters.bundle */,
+				48B93829292733630014D671 /* DeliciousFoodFilters.bundle */,
+			);
+			path = Filters;
+			sourceTree = "<group>";
+		};
+		48B9382A292733630014D671 /* Makeup */ = {
+			isa = PBXGroup;
+			children = (
+				48B9382B292733630014D671 /* eyelash.bundle */,
+				48B9382C292733630014D671 /* lips.bundle */,
+				48B9382D292733630014D671 /* brow.bundle */,
+				48B9382E292733630014D671 /* wholemakeup.bundle */,
+				48B9382F292733630014D671 /* face.bundle */,
+				48B93830292733630014D671 /* eyeshadow.bundle */,
+				48B93831292733630014D671 /* blush.bundle */,
+				48B93832292733630014D671 /* hairColor.bundle */,
+			);
+			path = Makeup;
+			sourceTree = "<group>";
+		};
+		48B93833292733640014D671 /* Color */ = {
+			isa = PBXGroup;
+			children = (
+				48B93834292733640014D671 /* whiten_gif.zip */,
+			);
+			path = Color;
+			sourceTree = "<group>";
+		};
+		48B938472927336E0014D671 /* StickerZipAndIcons */ = {
+			isa = PBXGroup;
+			children = (
+				48B938482927336E0014D671 /* my_sticker.bundle */,
+			);
+			path = StickerZipAndIcons;
+			sourceTree = "<group>";
+		};
+		48B938492927336E0014D671 /* UIElements */ = {
+			isa = PBXGroup;
+			children = (
+				48B9384A2927336E0014D671 /* STViewButton.xib */,
+				48B9384B2927336E0014D671 /* EffectsCollectionViewCell.xib */,
+				48B9384C2927336E0014D671 /* STSlideView.xib */,
+			);
+			path = UIElements;
 			sourceTree = "<group>";
 		};
 		7714E5B827002297004B7859 /* QNRepair */ = {
@@ -1320,88 +1412,11 @@
 		77A11C6A28857A2100020149 /* BeautyResource */ = {
 			isa = PBXGroup;
 			children = (
-				77A11C6B28857A2100020149 /* resources */,
-				77A11C7D28857A2100020149 /* SENSEME.lic */,
-				77A11C7E28857A2100020149 /* models */,
+				48B9381E2927334D0014D671 /* resources */,
+				48B938132927333E0014D671 /* models */,
+				481DC1B7291DE131000EC0A3 /* SENSEME.lic */,
 			);
 			path = BeautyResource;
-			sourceTree = "<group>";
-		};
-		77A11C6B28857A2100020149 /* resources */ = {
-			isa = PBXGroup;
-			children = (
-				77A11C6C28857A2100020149 /* Filters */,
-				77A11C7128857A2100020149 /* Color */,
-				77A11C7328857A2100020149 /* Makeup */,
-				77A11C7B28857A2100020149 /* StickerZipAndIcons */,
-			);
-			path = resources;
-			sourceTree = "<group>";
-		};
-		77A11C6C28857A2100020149 /* Filters */ = {
-			isa = PBXGroup;
-			children = (
-				77A11C6D28857A2100020149 /* PortraitFilters.bundle */,
-				77A11C6E28857A2100020149 /* SceneryFilters.bundle */,
-				77A11C6F28857A2100020149 /* StillLifeFilters.bundle */,
-				77A11C7028857A2100020149 /* DeliciousFoodFilters.bundle */,
-			);
-			path = Filters;
-			sourceTree = "<group>";
-		};
-		77A11C7128857A2100020149 /* Color */ = {
-			isa = PBXGroup;
-			children = (
-				77A11C7228857A2100020149 /* whiten_gif.zip */,
-			);
-			path = Color;
-			sourceTree = "<group>";
-		};
-		77A11C7328857A2100020149 /* Makeup */ = {
-			isa = PBXGroup;
-			children = (
-				77A11C7428857A2100020149 /* eyelash.bundle */,
-				77A11C7528857A2100020149 /* lips.bundle */,
-				77A11C7628857A2100020149 /* brow.bundle */,
-				77A11C7728857A2100020149 /* wholemakeup.bundle */,
-				77A11C7828857A2100020149 /* face.bundle */,
-				77A11C7928857A2100020149 /* eyeshadow.bundle */,
-				77A11C7A28857A2100020149 /* blush.bundle */,
-			);
-			path = Makeup;
-			sourceTree = "<group>";
-		};
-		77A11C7B28857A2100020149 /* StickerZipAndIcons */ = {
-			isa = PBXGroup;
-			children = (
-				77A11C7C28857A2100020149 /* my_sticker.bundle */,
-			);
-			path = StickerZipAndIcons;
-			sourceTree = "<group>";
-		};
-		77A11C7E28857A2100020149 /* models */ = {
-			isa = PBXGroup;
-			children = (
-				77A11C7F28857A2100020149 /* M_SenseME_Segment_Head_1.0.3.model */,
-				77A11C8028857A2100020149 /* M_SenseME_DogFace_2.0.0.model */,
-				77A11C8128857A2100020149 /* M_SenseAR_Segment_MouthOcclusion_FastV1_1.1.2.model */,
-				77A11C8228857A2100020149 /* M_SenseME_Segment_MouthOcclusion_FastV1_1.1.3.model */,
-				77A11C8328857A2100020149 /* SenseAR_v6.11.0(Effects)_Model_Usage_Instructions.pdf */,
-				77A11C8428857A2100020149 /* M_SenseME_Segment_Skin_1.1.1.model */,
-				77A11C8528857A2100020149 /* M_SenseME_CatFace_3.2.0.model */,
-				77A11C8628857A2100020149 /* M_SenseME_Segment_4.12.8.model */,
-				77A11C8728857A2100020149 /* M_SenseME_Face_Extra_Advanced_6.0.13.model */,
-				77A11C8828857A2100020149 /* M_SenseME_Hand_5.4.0.model */,
-				77A11C8928857A2100020149 /* M_SenseME_Face_Video_7.0.0.model */,
-				77A11C8A28857A2100020149 /* M_SenseME_Segment_4.12.11.model */,
-				77A11C8B28857A2100020149 /* M_SenseME_Segment_Hair_1.3.4.model */,
-				77A11C8C28857A2100020149 /* M_SenseME_Segment_DBL_Face_1.0.7.model */,
-				77A11C8D28857A2100020149 /* M_SenseME_Segment_Sky_1.0.3.model */,
-				77A11C8E28857A2100020149 /* M_SenseME_Attribute_1.0.1.model */,
-				77A11C8F28857A2100020149 /* SenseAR_v8.5.0(Effects)_Model_Usage_Instructions的.pdf */,
-				77A11C9028857A2100020149 /* M_SenseME_Avatar_Help_2.2.0.model */,
-			);
-			path = models;
 			sourceTree = "<group>";
 		};
 		77AF81142625963C0096B2FE /* RTCBase */ = {
@@ -1590,7 +1605,8 @@
 		77F4279A27EB3787007999A4 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
-				77EDC329286887C1002B4226 /* QNLiveKit.framework */,
+				48B9385A292761B50014D671 /* PLSTArEffects.framework */,
+				48B9385829275A6D0014D671 /* QNLiveKit.framework */,
 				77F61AB227EAC5070031C415 /* LATWhiteboard.framework */,
 				773F96EE271E912C00B50F84 /* QNWhiteBoardSDK.framework */,
 				772C246B2743A024003C3323 /* QNIMSDK.framework */,
@@ -1755,50 +1771,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48B93841292733640014D671 /* wholemakeup.bundle in Resources */,
+				48B93845292733640014D671 /* hairColor.bundle in Resources */,
+				48B9383D292733640014D671 /* DeliciousFoodFilters.bundle in Resources */,
+				48B93842292733640014D671 /* face.bundle in Resources */,
+				48B9381C2927333E0014D671 /* M_SenseME_Attribute_p_1.2.8.1.model in Resources */,
+				48B93836292733640014D671 /* all_categories.json in Resources */,
 				77F427D027EDBEA6007999A4 /* cake.gif in Resources */,
-				77A11CAF28857A2100020149 /* SenseAR_v8.5.0(Effects)_Model_Usage_Instructions的.pdf in Resources */,
-				77A11C9228857A2100020149 /* SceneryFilters.bundle in Resources */,
+				48B93837292733640014D671 /* material_group_map_rulues.json in Resources */,
+				48B9384D2927336E0014D671 /* my_sticker.bundle in Resources */,
+				48B9381D2927333E0014D671 /* M_SenseME_CatFace_p_3.2.0.1.model in Resources */,
+				48B93844292733640014D671 /* blush.bundle in Resources */,
+				48B938502927336E0014D671 /* STSlideView.xib in Resources */,
+				48B93835292733640014D671 /* beauties.json in Resources */,
+				48B9383C292733640014D671 /* StillLifeFilters.bundle in Resources */,
+				48B938192927333E0014D671 /* M_SenseME_Verify_p_3.118.0.1.model in Resources */,
 				77F427D327EDBEA6007999A4 /* lu.gif in Resources */,
 				7750EE8F2611A1E1009EED03 /* LaunchScreen.storyboard in Resources */,
-				77A11C9A28857A2100020149 /* face.bundle in Resources */,
-				77A11CA028857A2100020149 /* M_SenseME_DogFace_2.0.0.model in Resources */,
-				77A11CAE28857A2100020149 /* M_SenseME_Attribute_1.0.1.model in Resources */,
+				48B93846292733640014D671 /* whiten_gif.zip in Resources */,
 				77F427D827EDC184007999A4 /* QNGiftData.json in Resources */,
-				77A11C9828857A2100020149 /* brow.bundle in Resources */,
-				77A11C9428857A2100020149 /* DeliciousFoodFilters.bundle in Resources */,
+				48B9381B2927333E0014D671 /* model.bundle in Resources */,
 				7750EE8C2611A1E1009EED03 /* Assets.xcassets in Resources */,
+				48B93838292733640014D671 /* effects_service_group_list.json in Resources */,
+				48B93840292733640014D671 /* brow.bundle in Resources */,
 				77F427CF27EDBEA6007999A4 /* gift.gif in Resources */,
-				77A11CA828857A2100020149 /* M_SenseME_Hand_5.4.0.model in Resources */,
-				77A11C9C28857A2100020149 /* blush.bundle in Resources */,
-				77A11CB028857A2100020149 /* M_SenseME_Avatar_Help_2.2.0.model in Resources */,
-				77A11CAC28857A2100020149 /* M_SenseME_Segment_DBL_Face_1.0.7.model in Resources */,
-				77A11C9D28857A2100020149 /* my_sticker.bundle in Resources */,
-				77A11C9928857A2100020149 /* wholemakeup.bundle in Resources */,
-				77A11C9528857A2100020149 /* whiten_gif.zip in Resources */,
-				77A11CA928857A2100020149 /* M_SenseME_Face_Video_7.0.0.model in Resources */,
-				77A11C9728857A2100020149 /* lips.bundle in Resources */,
+				481DC1B8291DE131000EC0A3 /* SENSEME.lic in Resources */,
+				48B9383E292733640014D671 /* eyelash.bundle in Resources */,
 				7750EE8A2611A1E0009EED03 /* Main.storyboard in Resources */,
-				77A11C9128857A2100020149 /* PortraitFilters.bundle in Resources */,
-				77A11CAA28857A2100020149 /* M_SenseME_Segment_4.12.11.model in Resources */,
 				775DD99827665C6F0049FCB0 /* CLPlayer.bundle in Resources */,
-				77A11CAD28857A2100020149 /* M_SenseME_Segment_Sky_1.0.3.model in Resources */,
+				48B9381A2927333E0014D671 /* M_SenseME_DogFace_p_2.0.0.1.model in Resources */,
 				77F427D427EDBEA6007999A4 /* shengdan.gif in Resources */,
 				77F427D227EDBEA6007999A4 /* cat.gif in Resources */,
-				77A11CA428857A2100020149 /* M_SenseME_Segment_Skin_1.1.1.model in Resources */,
-				77A11CA328857A2100020149 /* SenseAR_v6.11.0(Effects)_Model_Usage_Instructions.pdf in Resources */,
-				77A11C9328857A2100020149 /* StillLifeFilters.bundle in Resources */,
-				77A11C9B28857A2100020149 /* eyeshadow.bundle in Resources */,
-				77A11C9628857A2100020149 /* eyelash.bundle in Resources */,
-				77A11C9F28857A2100020149 /* M_SenseME_Segment_Head_1.0.3.model in Resources */,
-				77A11CA228857A2100020149 /* M_SenseME_Segment_MouthOcclusion_FastV1_1.1.3.model in Resources */,
-				77A11C9E28857A2100020149 /* SENSEME.lic in Resources */,
-				77A11CAB28857A2100020149 /* M_SenseME_Segment_Hair_1.3.4.model in Resources */,
-				77A11CA628857A2100020149 /* M_SenseME_Segment_4.12.8.model in Resources */,
-				77A11CA728857A2100020149 /* M_SenseME_Face_Extra_Advanced_6.0.13.model in Resources */,
-				77A11CA128857A2100020149 /* M_SenseAR_Segment_MouthOcclusion_FastV1_1.1.2.model in Resources */,
+				48B9383A292733640014D671 /* PortraitFilters.bundle in Resources */,
+				48B9383F292733640014D671 /* lips.bundle in Resources */,
+				48B93839292733640014D671 /* all_categories_without_multi.json in Resources */,
 				77F427D127EDBEA6007999A4 /* gift_anim_bell.gif in Resources */,
 				775CE167275DD616006A7F0C /* ISEmojiList.plist in Resources */,
-				77A11CA528857A2100020149 /* M_SenseME_CatFace_3.2.0.model in Resources */,
+				48B9384F2927336E0014D671 /* EffectsCollectionViewCell.xib in Resources */,
+				48B9384E2927336E0014D671 /* STViewButton.xib in Resources */,
+				48B93843292733640014D671 /* eyeshadow.bundle in Resources */,
+				48B9383B292733640014D671 /* SceneryFilters.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2279,7 +2291,7 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = GDFHW66V92;
+				DEVELOPMENT_TEAM = W2TP34G2MM;
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = "EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64=arm64 arm64e armv7 armv7s armv6 armv8 EXCLUDED_ARCHS=$(inherited) $(EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_$(EFFECTIVE_PLATFORM_SUFFIX)__NATIVE_ARCH_64_BIT_$(NATIVE_ARCH_64_BIT))";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -2422,7 +2434,7 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = GDFHW66V92;
+				DEVELOPMENT_TEAM = W2TP34G2MM;
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = "EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64=arm64 arm64e armv7 armv7s armv6 armv8 EXCLUDED_ARCHS=$(inherited) $(EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_$(EFFECTIVE_PLATFORM_SUFFIX)__NATIVE_ARCH_64_BIT_$(NATIVE_ARCH_64_BIT))";
 				FRAMEWORK_SEARCH_PATHS = (

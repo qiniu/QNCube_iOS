@@ -75,7 +75,7 @@
 }
 
 //生成礼物消息
-- (QNIMMessageObject *)createGiftMessage:(QNGiftModel *)giftModel number:(NSInteger)number extMsg:(NSString *)extMsg {
+- (QNIMMessageObject *)createGiftMessage:(GiftModel *)giftModel number:(NSInteger)number extMsg:(NSString *)extMsg {
     
     GiftMsgModel *giftMsgModel = [GiftMsgModel new];
     giftMsgModel.senderUid = Get_User_id;

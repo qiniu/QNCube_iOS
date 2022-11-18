@@ -19,7 +19,7 @@ target 'QiNiu_Solution_iOS' do
   pod 'MBProgressHUD','1.2.0'
   pod 'MJRefresh', '3.5.0'
   pod 'SocketRocket','0.6.0'
-  pod 'PLShortVideoKit-SenseTime','1.4.0'
+#  pod 'PLShortVideoKit-SenseTime','1.4.0'
 
 
   target 'QiNiu_Solution_iOSTests' do
