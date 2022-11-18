@@ -130,7 +130,7 @@
 
 //发送礼物信令和消息
 -(void)sendGiftMessage:(SendGiftModel *)model {
-    QNGiftModel *gift = [QNGiftModel new];
+    GiftModel *gift = [GiftModel new];
     gift.giftName = model.giftName;
     gift.giftId = model.giftId;
     QNIMMessageObject *message = [self.messageCreater createGiftMessage:gift number:model.sendCount extMsg:@""];

@@ -11,6 +11,6 @@
 
 @end
 
-@implementation QNGiftModel
+@implementation GiftModel
 
 @end

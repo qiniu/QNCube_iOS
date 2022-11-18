@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@class QNIMMessageObject,QNGiftModel;
+@class QNIMMessageObject,GiftModel;
 
 @interface QNMessageCreater : NSObject
 
@@ -28,7 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (QNIMMessageObject *)createDanmuMessage:(NSString *)content;
 
 //礼物消息
-- (QNIMMessageObject *)createGiftMessage:(QNGiftModel *)giftModel number:(NSInteger)number extMsg:(NSString *)extMsg;
+- (QNIMMessageObject *)createGiftMessage:(GiftModel *)giftModel number:(NSInteger)number extMsg:(NSString *)extMsg;
 
 //点赞消息
 - (QNIMMessageObject *)createHeartMessage:(NSInteger)count;
