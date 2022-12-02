@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/QNIMSDK.framework/QNIMSDK</key>
 		<data>
-		3MI1zmx2sKR195exKlJCPATcZZU=
+		WRQIE/1/zhhaGfIA1dFT15wuJ2Q=
 		</data>
 		<key>Frameworks/QNIMSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -250,7 +250,7 @@
 		</data>
 		<key>Headers/QInvitationModel.h</key>
 		<data>
-		qRki1BW1EfMwWQ4vig1+wh5G8Dw=
+		QMYjyA8faheKYl42UpVnzGylO5w=
 		</data>
 		<key>Headers/QLinkMicService.h</key>
 		<data>
@@ -2341,11 +2341,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3MI1zmx2sKR195exKlJCPATcZZU=
+			WRQIE/1/zhhaGfIA1dFT15wuJ2Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			zImiRe8ofgJ0FGsBAx3IhCVLXosWbkiH+DhYjNetGsE=
+			SS+//0hwnpPbCd+d+nG5KZzY9oKKEsc9EirziqXKI2g=
 			</data>
 		</dict>
 		<key>Frameworks/QNIMSDK.framework/_CodeSignature/CodeResources</key>
@@ -2726,11 +2726,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qRki1BW1EfMwWQ4vig1+wh5G8Dw=
+			QMYjyA8faheKYl42UpVnzGylO5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			xmJ5ddfYcOKy4rrx+SgpFAnxtAgpH4l+E7RVADHJ9V8=
+			QusXkscYiO5C7c8jAZE890mH8PerFSk0llUpXldYWZ0=
 			</data>
 		</dict>
 		<key>Headers/QLinkMicService.h</key>
