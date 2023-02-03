@@ -19,6 +19,7 @@
 #import "QNTabBarViewController.h"
 #import <QNIMSDK/QNIMSDK.h>
 #import <QNLiveKit/QNLiveKit.h>
+#import <QNLiveUIKit/QNLiveUIKit.h>
 
 @interface AppDelegate ()
 @property (nonatomic , copy) NSString *urlStr;

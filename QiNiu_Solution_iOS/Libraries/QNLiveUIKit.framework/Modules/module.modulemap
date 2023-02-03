@@ -1,0 +1,6 @@
+framework module QNLiveUIKit {
+  umbrella header "QNLiveUIKit.h"
+
+  export *
+  module * { export * }
+}

@@ -16,6 +16,8 @@
 #import "QNMovieListController.h"
 #import "QNVoiceChatRoomListController.h"
 #import <QNLiveKit/QNLiveKit.h>
+#import <QNLiveUIKit/QNLiveUIKit.h>
+
 #import "QGoodDetailController.h"
 #import "QFeedbackViewController.h"
 
