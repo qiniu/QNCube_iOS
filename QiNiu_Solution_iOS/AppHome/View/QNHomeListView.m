@@ -16,6 +16,8 @@
 #import "QNMovieListController.h"
 #import "QNVoiceChatRoomListController.h"
 #import <QNLiveKit/QNLiveKit.h>
+#import <QNLiveUIKit/QNLiveUIKit.h>
+
 #import "QGoodDetailController.h"
 #import "QFeedbackViewController.h"
 
@@ -162,7 +164,6 @@
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(2 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
         [MBProgressHUD showText:@"已复制网址到剪贴板"];
     });
-    
 }
 
 - (UIViewController * )topViewController {

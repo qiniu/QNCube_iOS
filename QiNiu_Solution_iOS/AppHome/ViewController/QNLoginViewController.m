@@ -17,6 +17,7 @@
 #import "MBProgressHUD+QNShow.h"
 #import <QNIMSDK/QNIMSDK.h>
 #import <QNLiveKit/QNLiveKit.h>
+#import <QNLiveUIKit/QNLiveUIKit.h>
 
 @interface QNLoginViewController ()
 

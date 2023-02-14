@@ -7,6 +7,7 @@
 
 #import "QGoodDetailController.h"
 #import <QNLiveKit/QNLiveKit.h>
+#import <QNLiveUIKit/QNLiveUIKit.h>
 #import "AlertViewController.h"
 #import <PLPlayerKit/PLPlayerKit.h>
 #import "QDragView.h"

@@ -10,7 +10,8 @@
 #import "FillContactController.h"
 #import "QLiveDataView.h"
 #import <QNLiveKit/QNLiveKit.h>
-#import <QNLiveKit/QGradient.h>
+#import <QNLiveUIKit/QNLiveUIKit.h>
+#import <QNLiveUIKit/QGradient.h>
 #import "QLiveDataDetailController.h"
 #import "NSDate+QNCategory.h"
 
