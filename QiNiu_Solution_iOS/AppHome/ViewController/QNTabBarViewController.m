@@ -10,6 +10,7 @@
 #import "QNPersonalViewController.h"
 #import "QFeedbackViewController.h"
 #import <YYCategories/YYCategories.h>
+#import "QNWebViewController.h"
 @interface QNTabBarViewController ()
 
 @end
@@ -22,6 +23,16 @@
 }
 
 - (void)addViewController {
+    //    QFeedbackViewController *homeListVc = [QFeedbackViewController new];
+    QNWebViewController *webVC = [[QNWebViewController alloc]init];
+    UINavigationController *webVCNav = [[UINavigationController alloc]initWithRootViewController:webVC];
+    
+    webVCNav.tabBarItem.title = @"方案";
+    webVCNav.tabBarItem.image = [UIImage imageNamed:@"方案"];
+    webVCNav.tabBarItem.selectedImage = [UIImage imageNamed:@"方案-选中"];
+    [self addChildViewController:webVCNav];
+    
+    
     QNHomeListViewController *homeListVc = [[QNHomeListViewController alloc]init];
 //    QFeedbackViewController *homeListVc = [QFeedbackViewController new];
     UINavigationController *homeListNav = [[UINavigationController alloc]initWithRootViewController:homeListVc];
@@ -29,9 +40,6 @@
     homeListNav.tabBarItem.image = [UIImage imageNamed:@"icon_app_list"];
     homeListVc.tabBarItem.selectedImage = [UIImage imageNamed:@"icon_apply_list_selected"];
     [self addChildViewController:homeListNav];
-    
-    
-    
     
     QNPersonalViewController *personalVc = [[QNPersonalViewController alloc]init];
     UINavigationController *personalNav = [[UINavigationController alloc]initWithRootViewController:personalVc];

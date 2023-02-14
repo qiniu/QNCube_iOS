@@ -13,6 +13,8 @@ target 'QiNiu_Solution_iOS' do
   pod 'Masonry', '1.1.0'
   pod 'MJExtension','3.4.1'
   pod 'YYCategories','1.0.4'
+  pod 'YYModel','1.0.4'
+  pod 'YYWebImage'
   pod 'SDWebImage',' 5.12.2'
   pod 'AFNetworking','4.0.1'
   pod 'IQKeyboardManager','6.5.9'

@@ -239,6 +239,7 @@
 		7AE02963B1867FAEBD12BECC /* Pods_QiNiu_Solution_iOS_QiNiu_Solution_iOSUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A34644806CE139A6AF990FBE /* Pods_QiNiu_Solution_iOS_QiNiu_Solution_iOSUITests.framework */; };
 		8DD63B252CD41845B68F6068 /* Pods_QiNiu_Solution_iOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DF5FCE42C321A3B2816DA3F /* Pods_QiNiu_Solution_iOSTests.framework */; };
 		AC2F3FC7FDEAC261AAACB451 /* Pods_QiNiu_Solution_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D835D33EA81CE0C21A833FC /* Pods_QiNiu_Solution_iOS.framework */; };
+		E3AC45CE299A086800E3AE18 /* QNWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3AC45CD299A086800E3AE18 /* QNWebViewController.m */; };
 		E3B907D6298A0E2C00B96ADF /* SENSEME.lic in Resources */ = {isa = PBXBuildFile; fileRef = E3B907D5298A0E2C00B96ADF /* SENSEME.lic */; };
 		E3B90812298CB6C600B96ADF /* QNLiveUIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3B90811298CB6C600B96ADF /* QNLiveUIKit.framework */; };
 /* End PBXBuildFile section */
@@ -693,6 +694,8 @@
 		B78D44AF963D7B0CD8F2897E /* Pods-QiNiu_Solution_iOS-QiNiu_Solution_iOSUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QiNiu_Solution_iOS-QiNiu_Solution_iOSUITests.release.xcconfig"; path = "Target Support Files/Pods-QiNiu_Solution_iOS-QiNiu_Solution_iOSUITests/Pods-QiNiu_Solution_iOS-QiNiu_Solution_iOSUITests.release.xcconfig"; sourceTree = "<group>"; };
 		C06842FCE162F1DCF4B26B5A /* Pods-QiNiu_Solution_iOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QiNiu_Solution_iOSTests.release.xcconfig"; path = "Target Support Files/Pods-QiNiu_Solution_iOSTests/Pods-QiNiu_Solution_iOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		C7AD17800A322360462267F2 /* Pods-QiNiu_Solution_iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QiNiu_Solution_iOS.debug.xcconfig"; path = "Target Support Files/Pods-QiNiu_Solution_iOS/Pods-QiNiu_Solution_iOS.debug.xcconfig"; sourceTree = "<group>"; };
+		E3AC45CC299A086800E3AE18 /* QNWebViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QNWebViewController.h; sourceTree = "<group>"; };
+		E3AC45CD299A086800E3AE18 /* QNWebViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QNWebViewController.m; sourceTree = "<group>"; };
 		E3B907D5298A0E2C00B96ADF /* SENSEME.lic */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = SENSEME.lic; path = ../../../../../../SENSEME.lic; sourceTree = "<group>"; };
 		E3B90811298CB6C600B96ADF /* QNLiveUIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QNLiveUIKit.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -1476,6 +1479,8 @@
 				77808448261EF126008992BB /* QNTabBarViewController.m */,
 				77AF80C1262574820096B2FE /* QNAppStartPlayerController.h */,
 				77AF80C22625748F0096B2FE /* QNAppStartPlayerController.m */,
+				E3AC45CC299A086800E3AE18 /* QNWebViewController.h */,
+				E3AC45CD299A086800E3AE18 /* QNWebViewController.m */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -1945,6 +1950,7 @@
 				77B56E5E28000E8F0068AE17 /* LogTableView.m in Sources */,
 				77040A1928BCA4E70005FA9A /* QLiveDataItemView.m in Sources */,
 				776FAF2F26FC757D00455BD4 /* QNVideoTrackParams.m in Sources */,
+				E3AC45CE299A086800E3AE18 /* QNWebViewController.m in Sources */,
 				7771EA6B2768B57F00EDE1EB /* QNMovieTogetherViewModel.m in Sources */,
 				7714E5BB270053C4004B7859 /* QNRepairListViewController.m in Sources */,
 				77758CE628AA22AB005CBB59 /* QDragView.m in Sources */,
